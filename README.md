@@ -1,11 +1,11 @@
-## Olá, me chamo K. Diniz!! 💻
+## Hi, I'm K. Diniz!! 💻
 
-- 🎓 Atualmente estudo **Ciência da Computação**
-- 💡 Gosto de descobrir e aprender **novas tecnologias**
-- 📊 Atualmente trabalho com **administração e funções relacionadas a dados**
-- 📫 **E-mail:** kaue3diniz@gmail.com
+- 🎓 Currently studying **Computer Science**
+- 💡 I enjoy discovering and learning **new technologies**
+- 📊 I work with **data administration and data-related tasks**
+- 📫 **Email:** [kaue3diniz@gmail.com](mailto:kaue3diniz@gmail.com)
 
-<h2>🛠️ Tecnologias</h2>
+<h2>🛠️Technologies</h2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40"/>
 </div>
 
-<h2>🔗 Onde me encontrar</h2>
+<h2>📍Where to Find Me</h2>
 <div>
   <a href="www.linkedin.com/in/kauedinizcsilva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
